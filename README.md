@@ -26,6 +26,14 @@ Below are four actors I would want to see play the main role in *Darling* beside
 | Ram Charan       | Versatile and strong screen presence in emotional roles.     | 39  |
 | N. T. Jr | Known for his high-energy roles and mass appeal.            | 40  |
 | Mahesh Babu      | Great at portraying both action-packed and emotional roles. | 49  |
+---
+## Favorite Quotes
+> "The only way to do great work is to love what you do."  
+*Steve Jobs*
+
+> "Success is not final, failure is not fatal: It is the courage to continue that counts."  
+*Winston Churchill*
+
 
 
 
