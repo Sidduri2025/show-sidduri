@@ -17,4 +17,15 @@ For every festival, my mother prepares this dish, and all my family members love
 ## Check out MyMovie
 
 [MyMovie - Vaishnavi Sidduri's Favorite Movie](MyMovie.md)
+---
+## Actors I Would Want to See in the Main Role
+Below are four actors I would want to see play the main role in *Darling* besides Prabhas. These actors are chosen based on their skills, versatility, and how they could bring something unique to the role.
+| Actor Name       | Reason for Choosing Them                                    | Age |
+|------------------|-------------------------------------------------------------|-----|
+| Allu Arjun       | Known for his energetic performances and dance skills.       | 41  |
+| Ram Charan       | Versatile and strong screen presence in emotional roles.     | 39  |
+| N. T. Jr | Known for his high-energy roles and mass appeal.            | 40  |
+| Mahesh Babu      | Great at portraying both action-packed and emotional roles. | 49  |
+
+
 
