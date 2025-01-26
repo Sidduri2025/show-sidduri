@@ -9,3 +9,7 @@ For every festival, my mother prepares this dish, and all my family members love
 2. Temple - A quick drive of about 30 minutes.
 3. Paris - Requires a planned trip and some travel time.
 
+### Side Dishes with main dish
+- Garlic Bread
+- Caesar Salad
+- Mozzarella Sticks
