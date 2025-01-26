@@ -5,7 +5,3 @@ One of my all-time favorite movies is *Darling*, a Telugu movie. I love it becau
 
 ![Prabhas](prabhas.jpg)
 
-## Check out MyMovie
-
-[MyMovie - Vaishnavi Sidduri's Favorite Movie](MyMovie.md)
-
