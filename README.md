@@ -50,6 +50,7 @@ http.createServer((request, response) => {
 }).listen(8080);
 
 console.log('server running on port 8080');
+```
 
 [Source: Node.js Documentation](https://code.pieces.app/collections/node-js)
 
