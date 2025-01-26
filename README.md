@@ -33,6 +33,25 @@ Below are four actors I would want to see play the main role in *Darling* beside
 
 > "Success is not final, failure is not fatal: It is the courage to continue that counts."  
 *Winston Churchill*
+---
+## Code Fencing Example
+This Node.js code snippet demonstrates how to create a simple HTTP server that responds with a text message.
+```Node.js
+const http = require('http');
+
+http.createServer((request, response) => {
+
+	response.writeHead(200, {
+		'Content-Type': 'text/plain'
+	});
+	response.write('Hello from Pieces!');
+	response.end();
+
+}).listen(8080);
+
+console.log('server running on port 8080');
+
+[Source: Node.js Documentation](https://code.pieces.app/collections/node-js)
 
 
 
